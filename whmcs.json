@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-notifications",
+  "name": "pushwa",
+  "license": "proprietary",
+  "category": "notifications",
+  "description": {
+    "name": "Pushwa",
+    "tagline": "Send notification with Whatsapp - PushWa.com",
+    "long": "Send notification with Whatsapp.",
+    "features": [
+      "Setup rule based events and triggers",
+      "Receive notifications by whatsapp"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/pushwa.com\/"
+  },
+  "authors": [
+    {
+      "name": "PushWa Dev",
+      "homepage": "https:\/\/pushwa.com\/"
+    }
+  ]
+}
